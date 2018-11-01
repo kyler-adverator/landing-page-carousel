@@ -49,7 +49,7 @@ html.is-flickity-fullscreen {
 .flickity-enabled.is-fullscreen .flickity-fullscreen-button-view { display: none; }
 
 .flickity-fullscreen-button .flickity-button-icon {
-  position: absolute;
+  position: fixed;
   width: 24px;
   height: 24px;
   left: 4px;
