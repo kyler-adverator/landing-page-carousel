@@ -31,9 +31,9 @@ html.is-flickity-fullscreen {
   display: block;
   right: 10px;
   top: 10px;
-  width: 24px;
-  height: 24px;
-  border-radius: 4px;
+  width: 300px;
+  height: 300px;
+  border-radius: 122px;
   z-index: 12500;
 }
 
