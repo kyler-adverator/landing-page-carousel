@@ -50,9 +50,9 @@ html.is-flickity-fullscreen {
 
 .flickity-fullscreen-button .flickity-button-icon {
   position: absolute;
-  width: 16px;
-  height: 16px;
+  width: 24px;
+  height: 24px;
   left: 4px;
-  top: 4px;
+  top: 20%;
   z-index: 12900;
 }
