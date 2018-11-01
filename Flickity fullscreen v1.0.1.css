@@ -9,7 +9,7 @@
   height: 100%;
   background: hsla(0, 0%, 0%, 0.9);
   padding-bottom: 35px;
-  z-index: 1200;
+  z-index: 12200;
 }
 
 .flickity-enabled.is-fullscreen .flickity-page-dots {
@@ -34,7 +34,7 @@ html.is-flickity-fullscreen {
   width: 24px;
   height: 24px;
   border-radius: 4px;
-  z-index: 1500;
+  z-index: 12500;
 }
 
 /* right-to-left */
@@ -54,4 +54,5 @@ html.is-flickity-fullscreen {
   height: 16px;
   left: 4px;
   top: 4px;
+  z-index: 12900;
 }
